@@ -1,0 +1,9 @@
+# Liste des dépôts "réseaux de formation Bac+3" (AI Engineer) — archivés
+# URLs d’origine avant regroupement dans ce repo.
+#
+https://github.com/KANTANDEV/Smart-City.git
+https://github.com/KANTANDEV/Open-Food-Facts.git
+https://github.com/KANTANDEV/Pret_a_depenser.git
+https://github.com/KANTANDEV/Olist.git
+https://github.com/KANTANDEV/Place-de-marche.git
+https://github.com/KANTANDEV/Air-Paradis.git

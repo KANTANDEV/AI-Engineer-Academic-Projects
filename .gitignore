@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs & cache
+*.log
+npm-debug.log*
+.DS_Store
+
+# Large datasets (over GitHub 50 MB limit)
+Place-de-marche/Data/data.csv
