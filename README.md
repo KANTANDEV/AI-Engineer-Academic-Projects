@@ -1,7 +1,7 @@
 # AI Engineer Academic Projects
 
 <p align="center">
-  <strong>Bachelor-level (Bac+3) training portfolio</strong><br/>
+  <strong>Master-level (Bac+5) training portfolio</strong><br/>
   OpenClassrooms — Chef de projet IA / Ingénieur IA
 </p>
 
@@ -11,7 +11,7 @@
 
 ---
 
-This repository gathers **all 6 projects** from the OpenClassrooms AI Engineer (Bac+3) path. Each project is in its own folder with full source code. Original repositories have been archived in favor of this single consolidated repo.
+This repository gathers **all 6 projects** from the OpenClassrooms AI Engineer (Bac+5) path. Each project is in its own folder with full source code. Original repositories have been archived in favor of this single consolidated repo.
 
 ---
 
@@ -170,5 +170,5 @@ Each project folder contains the **full source code** from its original repo. Or
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" /> &nbsp;
-  <em>Consolidated academic portfolio — OpenClassrooms AI Engineer path (Bac+3)</em>
+  <em>Consolidated academic portfolio — OpenClassrooms AI Engineer path (Bac+5)</em>
 </p>
